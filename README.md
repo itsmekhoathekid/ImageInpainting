@@ -1,6 +1,6 @@
-#Image Inpainting using GRNN 
+# Image Inpainting using GRNN 
 
-##Type of Damages: Text, Scratch, Blockloss, Noise
+## Type of Damages: Text, Scratch, Blockloss, Noise
 
 Inpaint_color: Use for Color images inpainting
 
